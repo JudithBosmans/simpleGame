@@ -105,8 +105,10 @@ const clock = new THREE.Clock();
 //         console.log("click on circle 2");
 //         break;
 //     }
-//   }
+//   } blablabla
 // });
+
+
 
 // /************
 //  * CLICK EVENT
